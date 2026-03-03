@@ -25,6 +25,7 @@ https://www.kaggle.com/datasets/amineipad/titanic-dataset/data?select=train.csv
 
 ## Key Findings
 - Only 38.4% of passengers survived — nearly 2 in 3 people died
+- 3rd Class had the most number of passengers (55.1%) more than 1st and 2nd class combined (44.9%)
 - (To be continued...)
 
 ---
